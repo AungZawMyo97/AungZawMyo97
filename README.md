@@ -16,3 +16,4 @@ My goal is to become a **T-shaped developer** — developing deep expertise in b
 ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AungZawMyo97&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=AungZawMyo97&theme=tokyonight)
