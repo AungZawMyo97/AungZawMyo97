@@ -1,19 +1,48 @@
-# Hi there :wave: I'm Aung Zaw Myo
+<h3 align="left">
+<img src="assets/gifs/wave.gif" width="30">
+Hello, I'm Aung Zaw Myo
+</h3>
 
-💻 Backend Developer with 4+ years of backend-focused experience building web applications using the .NET ecosystem.  
-I enjoy designing scalable APIs, solving complex technical problems, and continuously improving my understanding of modern software architecture.
+Backend developer focused on the **.NET ecosystem** with 4+ years of experience building web applications and APIs.
 
-My goal is to become a **T-shaped developer** — developing deep expertise in backend engineering while maintaining broad knowledge across the full technology stack.
+I enjoy designing maintainable backend systems, solving technical challenges, and continuously improving my understanding of modern software architecture.
 
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+- 🔧 Main focus: **C#, ASP.NET Core, REST APIs**
+- 🗄 Experience with **SQL Server and relational databases**
+- 🧠 Interested in **clean architecture and scalable systems**
+- 🌱 Currently exploring **cloud technologies and DevOps**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AungZawMyo97&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com/?user=AungZawMyo97&theme=tokyonight)
+## 🛠 Tech Stack
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+
+## 👨‍💻 Developer Snapshot
+
+```csharp
+public class Developer
+{
+    public string Name = "Aung Zaw Myo";
+
+    public string[] Languages =
+    {
+        "C#", "JavaScript", "TypeScript", "SQL"
+    };
+
+    public string[] Frameworks =
+    {
+        "ASP.NET Core",
+        "Entity Framework"
+    };
+
+    public string[] Interests =
+    {
+        "Backend Architecture",
+        "Scalable APIs",
+        "System Design"
+    };
+}
