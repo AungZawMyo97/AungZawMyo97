@@ -1,5 +1,5 @@
 <h3 align="left">
-<img src="assets/gifs/wave.gif" width="30">
+<img src="assets/wave.gif" width="30">
 Hello, I'm Aung Zaw Myo
 </h3>
 
