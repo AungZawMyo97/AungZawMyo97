@@ -14,12 +14,12 @@ I enjoy designing maintainable backend systems, solving technical challenges, an
 
 ## 🛠 Tech Stack
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/csharp/csharp.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/dotnet/dotnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/aspnet/aspnet.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/sql-server/sql-server.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png"></code>
+<code><img height="30" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png"></code>
 
 ## 👨‍💻 Developer Snapshot
 
