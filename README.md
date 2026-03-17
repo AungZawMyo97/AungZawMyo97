@@ -7,7 +7,7 @@ Backend developer focused on the **.NET ecosystem** with 4+ years of experience 
 
 I enjoy designing maintainable backend systems, solving technical challenges, and continuously improving my understanding of modern software architecture.
 
-- 🔧 Main focus: **C#, ASP.NET Core, REST APIs**
+- 🔧 Main focus: **C#, .NET, REST APIs**
 - 🗄 Experience with **SQL Server and relational databases**
 - 🧠 Interested in **clean architecture and scalable systems**
 - 🌱 Currently exploring **cloud technologies and DevOps**
@@ -35,7 +35,7 @@ public class Developer
 
     public string[] Frameworks =
     {
-        "ASP.NET Core",
+        ".NET",
         "Entity Framework"
     };
 
