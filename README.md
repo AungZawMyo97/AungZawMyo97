@@ -35,14 +35,17 @@ public class Developer
     public string[] Frameworks =
     {
         ".NET",
-        "Entity Framework"
+        "Entity Framework",
+        "React.js",
+        "Next.js"
     };
 
     public string[] Interests =
     {
         "Backend Architecture",
         "Scalable APIs",
-        "System Design"
+        "System Design",
+        "Fullstack Development"
     };
 }
 ```
